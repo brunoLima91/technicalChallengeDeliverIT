@@ -1,0 +1,9 @@
+C:\Users\bruno\source\repos\DeliverIT\src\DeliverIT.Business\bin\Debug\netcoreapp3.1\DeliverIT.Business.deps.json
+C:\Users\bruno\source\repos\DeliverIT\src\DeliverIT.Business\bin\Debug\netcoreapp3.1\DeliverIT.Business.dll
+C:\Users\bruno\source\repos\DeliverIT\src\DeliverIT.Business\bin\Debug\netcoreapp3.1\DeliverIT.Business.pdb
+C:\Users\bruno\source\repos\DeliverIT\src\DeliverIT.Business\obj\Debug\netcoreapp3.1\DeliverIT.Business.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\DeliverIT\src\DeliverIT.Business\obj\Debug\netcoreapp3.1\DeliverIT.Business.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\DeliverIT\src\DeliverIT.Business\obj\Debug\netcoreapp3.1\DeliverIT.Business.AssemblyInfo.cs
+C:\Users\bruno\source\repos\DeliverIT\src\DeliverIT.Business\obj\Debug\netcoreapp3.1\DeliverIT.Business.dll
+C:\Users\bruno\source\repos\DeliverIT\src\DeliverIT.Business\obj\Debug\netcoreapp3.1\DeliverIT.Business.pdb
+C:\Users\bruno\source\repos\DeliverIT\src\DeliverIT.Business\obj\Debug\netcoreapp3.1\DeliverIT.Business.csproj.CoreCompileInputs.cache
